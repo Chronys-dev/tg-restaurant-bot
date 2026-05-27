@@ -43,7 +43,7 @@ Telegram-бот для управления ресторанов. Предост
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/yourusername/tg-restaurant-bot.git
+   git clone https://github.com/Chronys-dev/tg-restaurant-bot.git
    cd tg-restaurant-bot
    ```
 
