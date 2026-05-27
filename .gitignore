@@ -1,0 +1,19 @@
+Plaintext
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Секреты и конфигурация
+.env
+credentials.json
+
+# База данных и логи
+data/database.db
+*.log
+reports/
+
+# Кэш Python
+__pycache__/
+*.pyc
+.pytest_cache/
